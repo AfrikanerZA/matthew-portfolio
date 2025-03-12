@@ -1,0 +1,38 @@
+html {
+    background-color: #000957;
+}
+
+body {
+    min-height: 100vh;
+    position: relative;
+    margin: 0;
+    font-family: "Mulish", sans-serif;
+    background-color: #000957;
+}
+
+.custom-cv-download {
+    color: aqua;
+}
+
+.custom-bage {
+    width: fit-content;
+    background-color: white;
+}
+
+.custom-link {
+    text-decoration: none;
+    color: #000957;
+}
+
+.custom-link:active {
+    color: #CBDCEB;
+}
+
+.custom-link:visited {
+    color: #500073;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: white;
+}
